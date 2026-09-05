@@ -1,0 +1,104 @@
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.74), rgba(255,255,255,0.94)), url("sushi-seamless-pattern-onigiri-japanese-food-scarf-isolated-illustration-cartoon-tile-background-rep.svg");
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: red;
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:22px;
+    padding: 5px;
+    max-width: 80ch;
+    margin: auto;
+    background-color: rgb(255, 192, 192);
+}
+
+img {
+    display: block;
+    border: 5px solid black;
+    border-radius: 4px;
+    width: 600px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+figcaption {
+    font-style: italic;
+    color: #555;
+    font-size:medium;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.primer-header3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
+    width: fit-content;
+    background-color: rgb(21, 137, 85);
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+h3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
+    width: fit-content;
+    background-color: rgb(47, 47, 137);
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+div {
+    line-height: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80ch;
+}
+
+li {
+    margin-bottom: 12px;
+    background-color: rgb(206, 255, 219);
+}
+
+table, th, td {
+    padding: 5px;
+    border: 2px solid rgb(255, 187, 0);
+    line-height: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 247, 216);
+}
+
+#requisitos-pasos {
+    font-size: large;
+    text-transform: uppercase;
+}
+
+#texto-footer {
+    background-color: rgb(230, 244, 255);
+    font-weight:lighter;
+}
