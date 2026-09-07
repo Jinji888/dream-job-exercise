@@ -5,7 +5,6 @@ This is an extremely simple web development project created as part of a univers
 > This repository serves purely as a learning milestone. It highlights my journey into coding using HTML and understanding CSS and its rules and it is also demonstration of repository management, and utilizing GitHub to document my journey : )
 
 ## https://jinji888.github.io/dream-job-exercise/
-<img width="1439" height="865" alt="ss reto2 desarrollo web" src="https://github.com/user-attachments/assets/91e99224-8b50-4384-b0ee-6a4d8b97c676" />
 
 ## Overview
 The project consisted of a basic static webpage titled **(My Dream Job)** where I experiment with foundational structural tags and basic styling.
